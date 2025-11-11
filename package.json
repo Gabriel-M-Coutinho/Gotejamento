@@ -12,11 +12,14 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "axios": "^1.13.2",
+    "hunspell-spellchecker": "^1.0.2",
     "inquirer": "^12.10.0",
     "string-similarity": "^4.0.4",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
+    "@types/hunspell-spellchecker": "^1.0.2",
     "@types/node": "^24.10.0",
     "@types/string-similarity": "^4.0.2",
     "@types/xlsx": "^0.0.35",
